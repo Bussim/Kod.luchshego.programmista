@@ -1,0 +1,15 @@
+C:\Users\Bus_sim\Desktop\Aki\Aki\bin\Debug\net6.0\Aki.exe
+C:\Users\Bus_sim\Desktop\Aki\Aki\bin\Debug\net6.0\Aki.deps.json
+C:\Users\Bus_sim\Desktop\Aki\Aki\bin\Debug\net6.0\Aki.runtimeconfig.json
+C:\Users\Bus_sim\Desktop\Aki\Aki\bin\Debug\net6.0\Aki.dll
+C:\Users\Bus_sim\Desktop\Aki\Aki\bin\Debug\net6.0\Aki.pdb
+C:\Users\Bus_sim\Desktop\Aki\Aki\obj\Debug\net6.0\Aki.csproj.AssemblyReference.cache
+C:\Users\Bus_sim\Desktop\Aki\Aki\obj\Debug\net6.0\Aki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bus_sim\Desktop\Aki\Aki\obj\Debug\net6.0\Aki.AssemblyInfoInputs.cache
+C:\Users\Bus_sim\Desktop\Aki\Aki\obj\Debug\net6.0\Aki.AssemblyInfo.cs
+C:\Users\Bus_sim\Desktop\Aki\Aki\obj\Debug\net6.0\Aki.csproj.CoreCompileInputs.cache
+C:\Users\Bus_sim\Desktop\Aki\Aki\obj\Debug\net6.0\Aki.dll
+C:\Users\Bus_sim\Desktop\Aki\Aki\obj\Debug\net6.0\refint\Aki.dll
+C:\Users\Bus_sim\Desktop\Aki\Aki\obj\Debug\net6.0\Aki.pdb
+C:\Users\Bus_sim\Desktop\Aki\Aki\obj\Debug\net6.0\Aki.genruntimeconfig.cache
+C:\Users\Bus_sim\Desktop\Aki\Aki\obj\Debug\net6.0\ref\Aki.dll
